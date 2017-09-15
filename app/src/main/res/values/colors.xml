@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="goodRed">#ff2255</color>
+    <color name="goodBlue">#5522ff</color>
+    <color name="goodGreen">#559955</color>
+    <color name="goodYellow">#EDD60E</color>
+    <color name="goodPurple">#442255</color>
+    <color name="goodBrown">#4f2e24</color>
+    <color name="goodBlack">#000000</color>
+
+    <color name="textWhite">#ffffff</color>
+</resources>
